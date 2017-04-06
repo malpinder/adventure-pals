@@ -33,7 +33,7 @@ Common, Dwarven
 * Surge Value: 6
 * Surges: 8
 
-#### Skills
+#### Powers
 * Combat Leader
 * Commanding Presence: Tactical
 * Inspiring word
