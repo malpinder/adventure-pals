@@ -52,5 +52,5 @@ Common, Elven
 * Leather Armour
 * Lyre
 * Shortbow
-* Silk Rope
+* Silk Rope (50 feet)
 * Standard Kit
