@@ -49,7 +49,6 @@ Common, Elven
 
 #### Equipment
 * Dagger (3)
-* Leather Armor
 * Leather Armour
 * Lyre
 * Shortbow
