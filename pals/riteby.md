@@ -54,3 +54,4 @@ Common, Elven
 * Shortbow
 * Silk Rope (50 feet)
 * Standard Kit
+* 6 gp
