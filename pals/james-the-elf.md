@@ -1,6 +1,6 @@
 # James
 
-> "It's a eunuchs system - I know this!"
+> "It's a eunuch's system - I know this!"
 
 #### Species, Class, Level:
 Elf Ranger, Level 1
