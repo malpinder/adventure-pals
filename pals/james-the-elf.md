@@ -24,7 +24,7 @@ Common, Elven
 
 #### Other scores
 * Initiative +2
-* Speed 6
+* Speed 7
 * Vision: Low-light
 * Hit Points: 31
 * Surge Value: 7
