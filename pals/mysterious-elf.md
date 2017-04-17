@@ -1,7 +1,7 @@
 
-# ??? Another Mystery, How Odd
+# Chad the Elf
 
-> Yet More Mystery, Whatever Can Be Done About This
+> "I'm a _pretty_ good shot!"
 
 #### Species, Class, Level:
 Elf Ranger, Level 1
