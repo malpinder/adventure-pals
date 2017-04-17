@@ -7,7 +7,7 @@
 Halfing Rogue, Level 1
 
 #### Languages known:
-Common, +1 other
+Common, Elven
 
 #### Attributes
 * Str: 16 +3
