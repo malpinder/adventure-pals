@@ -1,9 +1,9 @@
 
 # Mulch
 
-> "I've got a /brilliant/ idea!!!"
-> Mulch has been reading up on dungeoneering, thinks it'd be a great way to get Seed Capital for her mutant magical plant nursery!
-Special interests: magic-contaminated plants, especially those that will bite your face off ("Ooooooh, izznt ee such a cutie?" *pansy in question gnaws on gloved finger*)
+> "I've got a _brilliant_ idea!!!"
+>
+> Mulch has been reading up on dungeoneering, thinks it'd be a great way to get Seed Capital for her mutant magical plant nursery.
 
 #### Species, Class, Level:
 Goblin Wizzard, Level 1
