@@ -63,7 +63,9 @@ Common, Elven
 #### Equipment
 * Overalls
 * Sharpened trowel (reskinned dagger)
+* Hand fork 
+* Hand crossbow
 * Orb of Imposition
 * Spellbook 
 * Standard kit 
-* 68 gold
+* 42 gold
