@@ -46,7 +46,7 @@ Common, Elven
 * Flaming Sphere (Spell, Daily)
 * Sleep (Spell, Daily)
 * Make Whole (Ritual)
-* Silence (Ritual)
+* Brew Potion (Ritual)
 * Animal Messenger (Ritual)
 * Detect magic (from trained skill)
 
