@@ -48,7 +48,6 @@ Common, Goblin
 * Make Whole (Ritual)
 * Brew Potion (Ritual)
 * Animal Messenger (Ritual)
-* Detect magic (from trained skill)
 
 #### Trained Skills
 * Arcana +11
@@ -65,7 +64,7 @@ Common, Goblin
 * Sharpened trowel (reskinned dagger)
 * Hand fork 
 * Hand crossbow
-* Orb of Imposition
+* Orb
 * Spellbook 
 * Standard kit 
 * 42 gold
