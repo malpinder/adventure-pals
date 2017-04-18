@@ -9,7 +9,7 @@
 Goblin Wizzard, Level 1
 
 #### Languages known:
-Common, Elven
+Common, Goblin
 
 #### Attributes
 * Str: 8  (-1)
