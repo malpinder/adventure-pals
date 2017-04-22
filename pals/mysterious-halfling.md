@@ -1,7 +1,7 @@
 
 # Merrimac “Moonshot” Mudfurrow
 
-> ??? This Is Also A Mystery
+> Leveraging best-of-breed cutting solutions into your face!
 
 #### Species, Class, Level:
 Halfing Rogue, Level 1
