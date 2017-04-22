@@ -1,7 +1,5 @@
 
-# ??? Everyone On This Team Is Very Secretive
-
-> Maybe They Are The Quiet Type
+# Helga Healthhammer
 
 #### Species, Class, Level:
 Dwarf Cleric of Moradin, Level 1
