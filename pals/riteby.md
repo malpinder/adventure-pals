@@ -62,7 +62,7 @@ Common, Elven
 * Escape Artist
 * Skill Versatility
 * Ritual Caster
-  * Comprehend Language
+  * _Comprehend Language_ (This has been ordered in to the Mizzenmarch bookshop)
   * Glib Limerick
   * Silence
 
