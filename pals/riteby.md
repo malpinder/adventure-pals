@@ -4,7 +4,7 @@
 > "I love to make music, and many other abstract concepts too!"
 
 #### Species, Class, Level:
-Faun Bard, Level 1
+Faun Bard, Level 2
 
 #### Deity
 Sehanine
@@ -21,20 +21,21 @@ Common, Elven
 * Cha: 18 (+4)
 
 #### Defense scores
-* AC: 13 (cloth armour)
-* Fort: 10
-* Ref: 14
-* Will: 16
+* AC: 14 (cloth armour)
+* Fort: 11
+* Ref: 15
+* Will: 17
 
 #### Other scores
-* Initiative +1
+* Initiative +2
 * Speed 6
-* Hit Points: 22
-* Surge Value: 5
+* Hit Points: 25
+* Surge Value: 6
 * Surges: 7
 
 #### Powers & Features
 * Virtue of Cunning
+* Advantage of Cunning
 * Multiclass Versatility
 * Skill Versatility
 * Song of Rest
@@ -48,6 +49,7 @@ Common, Elven
 * Words of Friendship (Encounter)
 * Stott (Encounter)
 * Stirring Shout (Daily)
+* Song of Courage (Daily)
 
 #### Trained Skills
 * Acrobatics +6
@@ -60,6 +62,7 @@ Common, Elven
 * Escape Artist
 * Skill Versatility
 * Ritual Caster
+  * _Comprehend Language_ (This has been ordered in to the Mizzenmarch bookshop)
   * Glib Limerick
   * Silence
 
@@ -70,4 +73,4 @@ Common, Elven
 * Shortbow
 * Silk Rope (50 feet)
 * Standard Kit (but without hemp rope)
-* 65 gp
+* 45 gp
