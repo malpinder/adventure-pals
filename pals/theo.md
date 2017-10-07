@@ -42,7 +42,8 @@ Common, Elven
 * Channel Divinity: Healer's Mercy (encounter, class feature*)
 * Shielding Smite (encounter)
 * Call of Challenge (encounter, utility)
-* Lay on Hands (at-will:special 1 use/day, class feature)
+* Hold Fast (encounter)
+* Lay on Hands (at-will:special 2 use/day, class feature)
 * Radiant Delirium (daily)
 
 \* Cleric class feature, via Versatile Channeller
